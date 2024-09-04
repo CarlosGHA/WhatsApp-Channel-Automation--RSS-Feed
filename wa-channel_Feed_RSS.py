@@ -4,7 +4,7 @@
 
 # Based on the script architecture from https://github.com/simbon/wa-channel
 # Fork made by https://github.com/CarlosGHA/wa-channel_Feed_RSS
-# MAY I HAVE A COFFE? FEEL FREE TO DONATE AT: buymeacoffee.com/carlosgha
+# MAY I HAVE A COFFE? FEEL FREE TO DONATE AT: https://www.paypal.com/donate/?hosted_button_id=BX8W8QZ4TECTS or buymeacoffee.com/carlosgha
 
 import feedparser
 from selenium import webdriver
@@ -79,6 +79,7 @@ def print_startup_message():
 *                                                     *
 *     MAY I HAVE A COFFE?                             *
 *     Feel free to donate at:                         *
+* https://www.paypal.com/donate/?hosted_button_id=BX8W8QZ4TECTS *
 *     buymeacoffee.com/carlosgha                      *
 *                                                     *
 *                                                     *
