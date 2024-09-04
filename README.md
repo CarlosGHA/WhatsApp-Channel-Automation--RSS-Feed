@@ -28,8 +28,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/whatsapp-channel-automation.git
-   cd whatsapp-channel-automation
+   git clone https://github.com/CarlosGHA/wa-channel_Feed_RSS
+   cd wa-channel_Feed_RSS
    ```
 
 2. Install the required dependencies:
@@ -39,7 +39,7 @@
 
 3. Run the script:
    ```bash
-   python main.py
+   python wa-channel_Feed_RSS.py
    ```
 
 ### Usage
