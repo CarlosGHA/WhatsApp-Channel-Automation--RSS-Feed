@@ -1,10 +1,10 @@
-# WhatsApp Channel Automation RSS Feed
+# WhatsApp Channel Automation Feed RSS
 
-🚀 **WhatsApp Channel Automation RSS Feed** is a Selenium-based Python script designed to automate content distribution across multiple WhatsApp channels. This tool checks RSS feeds from various rss feeds from blogs and sends updates directly to designated WhatsApp channels. The script is ideal for content creators, news distributors, and digital marketers who want to streamline their content-sharing process.
+🚀 **WhatsApp Channel Automation Feed RSS** is a Selenium-based Python script designed to automate content distribution across multiple WhatsApp channels. This tool checks Feed RSSs from various Feed RSSs from blogs and sends updates directly to designated WhatsApp channels. The script is ideal for content creators, news distributors, and digital marketers who want to streamline their content-sharing process.
 
 ### Features
 
-- **Automated Feed Checking:** Continuously monitors RSS feeds for new content.
+- **Automated Feed Checking:** Continuously monitors Feed RSSs for new content.
 - **WhatsApp Integration:** Automatically sends updates to specified WhatsApp channels.
 - **Easy Setup:** Simple installation and setup process.
 - **Customizable:** Easily extend the script to include more feeds or customize message formats.
@@ -12,7 +12,7 @@
 ### How It Works
 
 1. **Initialize WhatsApp Web:** The script launches a Chrome browser session, where you need to log in to WhatsApp Web.
-2. **Feed Monitoring:** It monitors the specified RSS feeds for any new content.
+2. **Feed Monitoring:** It monitors the specified Feed RSSs for any new content.
 3. **Channel Navigation:** The script navigates to the appropriate WhatsApp channel.
 4. **Message Sending:** Upon detecting new content, it formats and sends the message to the channel.
 
@@ -45,7 +45,7 @@
 ### Usage
 
 - After running the script, a Chrome window will open, and you will be prompted to log in to WhatsApp Web.
-- Once logged in, the script will start monitoring the RSS feeds and sending messages to your configured WhatsApp channels automatically.
+- Once logged in, the script will start monitoring the Feed RSSs and sending messages to your configured WhatsApp channels automatically.
 
 ### Contribution
 
