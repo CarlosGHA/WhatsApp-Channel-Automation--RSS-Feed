@@ -56,6 +56,6 @@ Feel free to fork this repository, submit issues, or propose new features. Contr
 If you find this project useful and want to support its development, consider making a donation. Your contributions will help cover hosting costs, continuous development, and future improvements.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/your-paypal-link)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-orange.svg)](https://www.buymeacoffee.com/yourusername)
+<a href="https://www.buymeacoffee.com/carlosgha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 Thank you for your support!
